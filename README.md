@@ -88,8 +88,7 @@ int main() {
 ```
 
 # Output:
-<img width="364" height="334" alt="Screenshot 2025-11-19 132839" src="https://github.com/user-attachments/assets/ecc4e563-0236-4308-a2c0-6c7fad547b2f" />
-<img width="384" height="149" alt="image" src="https://github.com/user-attachments/assets/ad3f0667-e965-4921-8dbf-f6efad48c2f1" />
+<img width="364" height="344" alt="Screenshot 2025-11-19 132839" src="https://github.com/user-attachments/assets/ecc4e563-0236-4308-a2c0-6c7fad547b2f" />
 
 
 # Result: 
@@ -219,7 +218,7 @@ int main() {
 
 ```
 # Output:
-<img width="1364" height="749" alt="image" src="https://github.com/user-attachments/assets/4c627601-ec44-402e-9f5c-a7f48a22c7f2" />
+<img width="530" height="267" alt="image" src="https://github.com/user-attachments/assets/dfb2c463-10f4-47da-aef7-69d483c29980" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -386,7 +385,8 @@ int main() {
 
 ```
 # Output:
-<img width="1361" height="755" alt="image" src="https://github.com/user-attachments/assets/e246bb0f-f781-40f1-9deb-11c8c9c848a0" />
+<img width="510" height="386" alt="image" src="https://github.com/user-attachments/assets/185b4604-eb5e-408f-9746-8e90cec12929" />
+
 
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
